@@ -32,7 +32,7 @@ Welcome to the 3D Design Robot Mouth repository! This project contains a unique 
 Once assembled, the robot mouth can be used in various robotics projects. It can be integrated with a robot's head to provide realistic mouth movements.
 
 ## Files
-[To see the design click here](https://www.tinkercad.com/)
+[To see the design click here]([https://www.tinkercad.com/](https://github.com/xd7fx/3d-design-robot-mouth/blob/main/3d%20design%20robot%20mouth.stl))
 
 
 ![لقطة الشاشة 2024-07-15 095253](https://github.com/user-attachments/assets/f6e40ae4-c277-488b-b1d6-5056e37786e5)
